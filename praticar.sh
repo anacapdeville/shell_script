@@ -7,3 +7,5 @@ echo "Tenho "$IDADE" anos de idade"
 echo `whoami`
 echo `pwd`
 read -p "Qual o seu nome?" NOMEVou ter muito sucesso na programação!
+=======
+read -p "Qual o seu nome?" NOME
